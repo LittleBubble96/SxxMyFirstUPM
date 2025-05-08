@@ -1,6 +1,6 @@
 {
     "name": "com.sxxlyt.sxxpackage", 
-    "version": "1.0.0",                   
+    "version": "1.0.1",                   
     "displayName": "My First UPM Package",
     "description": "A simple example UPM package for Unity.",
     "unity": "2022.3",                   
