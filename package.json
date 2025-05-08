@@ -1,0 +1,16 @@
+{
+    "name": "com.sxxlyt.sxxpackage", 
+    "version": "1.0.0",                   
+    "displayName": "My First UPM Package",
+    "description": "A simple example UPM package for Unity.",
+    "unity": "2022.3.55.f1",                   
+    "keywords": ["utility", "demo"],
+    "author": {
+      "name": "Sxx",
+      "email": "m13313169347@163.com",
+      "url": "https://yourwebsite.com"
+    },
+    "dependencies": {                    
+      "com.unity.textmeshpro": "3.0.6"
+    }
+  }
